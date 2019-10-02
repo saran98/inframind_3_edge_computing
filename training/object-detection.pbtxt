@@ -1,0 +1,40 @@
+item {
+  id: 1
+  name: 'colgatetoothpaste big'
+}
+item {
+  id: 2
+  name: 'colgatetoothpaste small'
+}
+item {
+  id: 3
+  name: 'gokulsantol small'
+}
+item {
+  id: 4
+  name: 'gokulsantol big'
+}
+item {
+  id: 5
+  name: 'darkfantasy small'
+}
+item {
+  id: 6
+  name: 'darkfantasy big'
+}
+item {
+  id: 7
+  name: 'boost small'
+}
+item {
+  id: 8
+  name: 'boost big'
+}
+item {
+  id: 9
+  name: 'lgasafoetidapowder small'
+}
+item {
+  id: 10
+  name: 'lgasafoetidapowder large'
+}
