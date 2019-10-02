@@ -43,11 +43,11 @@ def class_text_to_int(row_label):
         return 6
     elif row_label == 'boost small':
         return 7
-   elif row_label == 'boost big':
+    elif row_label == 'boost big':
         return 8
     elif row_label == 'lgasafoetidapowder small':
         return 9
-     elif row_label == 'lgasafoetidapowder large':
+    elif row_label == 'lgasafoetidapowder large':
         return 10
     else:
         None
