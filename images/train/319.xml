@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>319.jpg</filename>
+	<path>E:\inframindd\images\train\319.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>darkfantasy small</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>109</ymin>
+			<xmax>371</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>darkfantasy big</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>59</ymin>
+			<xmax>613</xmax>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

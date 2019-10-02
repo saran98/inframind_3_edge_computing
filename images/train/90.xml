@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>90.jpg</filename>
+	<path>E:\inframindd\images\train\90.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>colgatetoothpaste big</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>47</ymin>
+			<xmax>205</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>colgatetoothpaste small</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>210</ymin>
+			<xmax>143</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

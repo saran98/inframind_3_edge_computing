@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>549.jpg</filename>
+	<path>E:\inframindd\images\train\549.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lgasafoetidapowder small</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>221</ymin>
+			<xmax>178</xmax>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lgasafoetidapowder large</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>91</ymin>
+			<xmax>232</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>
